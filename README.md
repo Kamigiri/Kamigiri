@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kamigiri
-- 👀 I’m interested in Python, Kotlin  and C#
-- 🌱 I’m currently learning ... well Python, Kotlin  and C#
+- 👋 Hi, I’m Mert Demirbilek
+- 👀 I’m interested in Python, C++ and React
+- 🌱 I’m currently learning ... C++/UE4 and React
 - 💞️ I’m looking to collaborate on anything where I can help with my skill level
 
 <!---
