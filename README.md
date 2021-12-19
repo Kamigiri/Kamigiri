@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Demirbilek
-- 👀 I’m currently working in Python, C++, Java and ReactJS
-- 🌱 I’m currently learning Django, UE4, Modding
+- 👀 I’m currently working in Python, C++, Java and Angular
+- 🌱 I’m currently learning Flask and Spring
 - 💞️ I’m looking to collaborate on anything where I can help with my skill level
 
 <!---
